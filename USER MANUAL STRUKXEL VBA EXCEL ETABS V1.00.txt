@@ -1,0 +1,29 @@
+Cara Menggunakan VBA Excel to ETABS v 1.00
+1.Extract File Excel dari ZIP 
+Extract file excel atau langsung semua file juga tidak apa-apa. 
+
+2.Unblock file Excel Macro 
+Klik kanan pada file lalu klik properties lalu centang pada ”Unblock” ke Ok lalu 
+Apply. 
+
+3. Enable Macros pada Excel 
+Klik dua kali file .xlsm atau klik kanan file lalu klik opsi Open. Lalu jika muncul 
+Security Warning → klik Enable Content. Maka form input akan muncul otomatis.
+
+4. Verifikasi Koneksi ETABS 
+• Pastikan ETABS v22 sudah ter-install 
+• Program akan otomatis mendeteksi ETABS API
+
+Pengembang: 
+Nama Pengembang  	: Kautsar Alfaridzi 
+Email Pengembang 	: kosargantenx@gmail.com 
+
+Dosen Pembimbing:  
+Dosen 1  		: Dr. Ir. Nanang Gunawan Wariyatno, S.T., M.T. 
+Dosen 2  		: Dr. Ir. Sumiyanto, S.T., M.T. 
+
+Institusi:  
+Program Studi S1 Teknik Sipil 
+Fakultas Teknik 
+Universitas Jenderal Soedirman  
+2025 
